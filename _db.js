@@ -823,7 +823,7 @@ let games = [
     {
       "id": "r18",
       "rating": 5,
-      "content": "Fast and futuristic!",
+      "content": "Fast and fff!",
       "game": {
         "id": "15",
         "name": "Future Racer"

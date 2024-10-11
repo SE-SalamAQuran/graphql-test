@@ -74,4 +74,5 @@ export const typeDefs = `#graphql
         content: String!
         author: ID!
     }
+    
 `
